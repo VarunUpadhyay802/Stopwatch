@@ -1,0 +1,10 @@
+#upper{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 100px;
+}
+
+#lower{
+    display: flex;
+     justify-content: space-evenly;
+}
